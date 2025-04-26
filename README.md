@@ -1,2 +1,2 @@
-# andrewwang2015.github.io
+# andrewwang.github.io
 Personal Website
